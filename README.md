@@ -11,3 +11,7 @@ PA10 BUTTON GND ++++++ LEFT
 PA9 BUTTON GND +++++++ JUMP
 
 PA8 BUTTON GND ++++++ START
+
+
+
+Code Based ON https://github.com/KenKenMkIISR/picopegsol
