@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=JiHrA-MgaiQ
+
 ![PEG SOLITAIRE STM32 TFT ILI9341 SPI STM32F401](https://github.com/offpic/PEG-SOLITAIRE-STM32-TFT-ILI9341-SPI-STM32F401/assets/31142397/bc01bde9-a57d-43ab-81b6-2b14a6f4041a)
 
 PA15 BUTTON GND ++++++ RIGHT
